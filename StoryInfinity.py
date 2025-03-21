@@ -4,8 +4,8 @@ AI-Powered Interactive Story Game Engine
 This module implements a multi-agent framework for generating interactive storytelling experiences.
 The system uses LLM API calls to create dynamic narratives with character interactions and player choices.
 
-Author: [Your Name]
-GitHub: [Your GitHub Username]
+Author: Cheng Guo
+GitHub: Iwan000
 """
 
 import re
