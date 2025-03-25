@@ -43,7 +43,7 @@ An intelligent multi-agent framework for generating dynamic, interactive storyte
 ## 📖 Usage
 
 ```python
-from story_engine import safe_story_progression, process_player_choice
+from StoryInfinity import safe_story_progression, process_player_choice
 
 # Generate a new story with a specific theme
 story = safe_story_progression(theme="Space Adventure")
